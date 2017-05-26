@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="sineText"><b>sin</b></string>
+    <string name="cosText"><b>cos</b></string>
+    <string name="tanText"><b>tan</b></string>
+    <string name="pieText">π</string>
+    <string name="exclamationText"><b>!</b></string>
+    <string name="logtobasee">ln</string>
+    <string name="logtobase10">Log</string>
+    <string name="power">^</string>
+    <string name="exponential">e</string>
+    <string name="modulo">%</string>
+</resources>
